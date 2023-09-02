@@ -44,7 +44,9 @@ print(data.info())
 
 ### Humidity Over the Years
 
-![Humidity in Delhi Over the Years](link_to_your_humidity_plot)
+![Humidity in Delhi Over the Years]
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/16693680-7c39-44d9-ba41-9c506c5e29c8)
+
 
 ### Wind Speed Over the Years
 
