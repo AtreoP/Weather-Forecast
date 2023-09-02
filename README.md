@@ -40,34 +40,36 @@ print(data.info())
 
 ### Mean Temperature Over the Years
 
-![Mean Temperature in Delhi Over the Years](link_to_your_mean_temperature_plot)
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/82af4c82-3fca-4861-acaf-b8041d4f959f)
+
 
 ### Humidity Over the Years
 
-![Humidity in Delhi Over the Years]![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/16693680-7c39-44d9-ba41-9c506c5e29c8)
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/16693680-7c39-44d9-ba41-9c506c5e29c8)
 
 
 ### Wind Speed Over the Years
 
-![Wind Speed in Delhi Over the Years](link_to_your_wind_speed_plot)
+
 
 ## Relationship Between Temperature and Humidity
 
 This scatter plot shows the relationship between temperature and humidity in Delhi:
 
-![Temperature-Humidity Scatter Plot](link_to_your_temperature_humidity_scatter_plot)
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/4d01526a-cd52-4d3c-ae3c-052a952b4f84)
+
 
 ## Temperature Change Over the Years
 
 This line plot visualizes the change in temperature in Delhi over the years, grouped by month:
 
-![Temperature Change Over the Years](link_to_your_temperature_change_plot)
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/d4353559-e802-4929-95f7-65e7ff063d4e)
 
 ## Time Series Forecasting
 
 We used Facebook Prophet to make time series forecasts of mean temperature in Delhi.
 
-![Prophet Forecast Plot](link_to_your_prophet_forecast_plot)
+
 
 ## Getting Started
 
