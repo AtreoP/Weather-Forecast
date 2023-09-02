@@ -49,7 +49,7 @@ print(data.info())
 
 
 ### Wind Speed Over the Years
-
+![image](https://github.com/AtreoP/Weather-Forecast/assets/97874269/dded2725-51e7-48a3-ab90-4e8c7a90e277)
 
 
 ## Relationship Between Temperature and Humidity
