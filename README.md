@@ -82,7 +82,12 @@ To run this analysis on your local machine, follow the instructions below.
 2. Install the required Python libraries using `pip`:
 
    ```bash
-   pip install pandas numpy matplotlib seaborn plotly prophet
+   pip install pandas
+   pip install numpy
+   pip install matplotlib
+   pip install seaborn
+   pip install plotly
+   pip install prophet
    ```
 
 ### Usage
